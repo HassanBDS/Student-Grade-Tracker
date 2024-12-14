@@ -1,2 +1,1 @@
-# simple-stopwatch
-Simple Stop Watch
+# Student Grade Tracker
